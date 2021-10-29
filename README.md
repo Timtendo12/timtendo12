@@ -50,7 +50,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Timtendo12&repo=Portfolio-Website&theme=tokyonight" />
 </a>
 
-(Private) Far Cry Discord Bot.
+<a href=" https://github.com/Timtendo12/FarCryDiscordBot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Timtendo12&repo=FarCryDiscordBot&theme=tokyonight" />
+</a>
 
 <div align="center">
   
