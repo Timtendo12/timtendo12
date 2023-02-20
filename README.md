@@ -1,8 +1,8 @@
 ### Hi there 👋 Welcome on my Github!
 
-- 🔭 I’m currently working on Far Cry Discord bot & Unannounced 2D platformer.
+- 🔭 I’m currently working on SnifflerBot (WW) & DCRevisited (NL).
  
-- 🌱 I’m currently learning Javascript, C# (Unity) & Programming Discord Bots.
+- 🌱 I’m currently learning and mastering Javascript, java, C# (Unity & .NET), PHP (Laravel)!
 
 - ⚡ Fun fact: I love to learn new things, Im always willing to start a new coding adventure!
 
@@ -63,4 +63,4 @@
 -----
 Credits: [Timtendo12](https://github.com/Timtendo12)
 
-Last Edited on: 24/09/2021
+Last Edited on: 20/02/2023
